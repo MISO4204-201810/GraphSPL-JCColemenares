@@ -1,0 +1,12 @@
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.dll.config
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.deps.json
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.runtimeconfig.json
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.runtimeconfig.dev.json
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.dll
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\bin\Debug\netcoreapp2.0\FabricaGraph.pdb
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.csprojResolveAssemblyReference.cache
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.csproj.CoreCompileInputs.cache
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.AssemblyInfoInputs.cache
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.AssemblyInfo.cs
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.dll
+c:\users\soadc\documents\visual studio 2017\Projects\FabricaGraph\FabricaGraph\obj\Debug\netcoreapp2.0\FabricaGraph.pdb
